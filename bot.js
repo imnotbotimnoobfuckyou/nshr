@@ -8,7 +8,7 @@ console.log("Welcome Again !");
   return channel.send(` 
 **
 Giveaway For FIFA 2019 Origin Account Join Now ....        
-                
+                https://discord.gg/WJMMPSA
 ${member}
 **`)
 }).catch(console.error)
@@ -20,7 +20,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 Giveaway For FIFA 2019 Origin Account Join Now ....        
-                
+                https://discord.gg/WJMMPSA
 ${member}
 **`) 
 }).catch(console.error)
